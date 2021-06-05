@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AutoCarousel/static/css/main.1135fa24.chunk.css",
+    "main.js": "/AutoCarousel/static/js/main.15358a81.chunk.js",
+    "main.js.map": "/AutoCarousel/static/js/main.15358a81.chunk.js.map",
+    "runtime-main.js": "/AutoCarousel/static/js/runtime-main.8fa6a2af.js",
+    "runtime-main.js.map": "/AutoCarousel/static/js/runtime-main.8fa6a2af.js.map",
+    "static/js/2.cb7265a1.chunk.js": "/AutoCarousel/static/js/2.cb7265a1.chunk.js",
+    "static/js/2.cb7265a1.chunk.js.map": "/AutoCarousel/static/js/2.cb7265a1.chunk.js.map",
+    "index.html": "/AutoCarousel/index.html",
+    "static/css/main.1135fa24.chunk.css.map": "/AutoCarousel/static/css/main.1135fa24.chunk.css.map",
+    "static/js/2.cb7265a1.chunk.js.LICENSE.txt": "/AutoCarousel/static/js/2.cb7265a1.chunk.js.LICENSE.txt",
+    "static/media/pic1.13a10a7d.jpeg": "/AutoCarousel/static/media/pic1.13a10a7d.jpeg",
+    "static/media/pic2.90ff78b3.jpeg": "/AutoCarousel/static/media/pic2.90ff78b3.jpeg",
+    "static/media/pic3.0da9d452.jpeg": "/AutoCarousel/static/media/pic3.0da9d452.jpeg",
+    "static/media/pic4.74eeb515.jpeg": "/AutoCarousel/static/media/pic4.74eeb515.jpeg",
+    "static/media/pic5.081a22e4.jpeg": "/AutoCarousel/static/media/pic5.081a22e4.jpeg",
+    "static/media/pic6.27b75699.jpeg": "/AutoCarousel/static/media/pic6.27b75699.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa6a2af.js",
+    "static/js/2.cb7265a1.chunk.js",
+    "static/css/main.1135fa24.chunk.css",
+    "static/js/main.15358a81.chunk.js"
+  ]
+}
